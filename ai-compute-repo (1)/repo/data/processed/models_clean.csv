@@ -1,0 +1,547 @@
+Model,Organization,Country (of organization),Domain,Publication date,Parameters,Training compute (FLOP),year,log10_flop
+Inkling 2 Small,Thinking Machines,United States of America,"Language,Vision,Multimodal",2026-11-05,594000000000.0,2.13418e+23,2026.8432580424367,23.329231045692964
+Ripple-65B Preview,Ricursive Intelligence,,Language,2026-11-04,65000000000.0,4.83717e+24,2026.8405201916496,24.684591350726173
+MAI-Base-2,Microsoft,United States of America,"Language,Vision,Multimodal",2026-10-15,2800000000000.0,2.4e+25,2026.7857631759068,25.380211241711606
+Mistral Large 4,Mistral AI,France,"Language,Multimodal,Vision",2026-10-06,1050000000000.0,1.2399999999999998e+25,2026.7611225188227,25.093421685162234
+DeepSeek V4.1 Flash,DeepSeek,China,"Language,Vision,Multimodal",2026-09-09,552000000000.0,4.32e+24,2026.6872005475702,24.635483746814913
+WeatherNext 3,"Google DeepMind,Google Research","United States of America,United States of America",Earth science,2026-09-03,,2.0725198384e+23,2026.6707734428473,23.316498696359304
+GPT-6 Astra,OpenAI,United States of America,"Multimodal,Language,Vision",2026-09-03,,9.400000000000001e+26,2026.6707734428473,26.9731278535997
+GLM-5.3-Flash,Z.ai (Zhipu AI),China,"Language,Vision,Multimodal",2026-08-20,320000000000.0,3.24e+24,2026.6324435318274,24.510545010206613
+Motif-3,Motif Technologies,South Korea,Language,2026-08-07,314000000000.0,1.0999999999999999e+24,2026.5968514715948,24.041392685158225
+K-EXAONE 2.0,LG AI Research,South Korea,Language,2026-07-31,750000000000.0,3.55e+24,2026.577686516085,24.550228353055093
+A.X K2,SK Telecom,South Korea,Language,2026-07-29,688000000000.0,1.8e+24,2026.5722108145105,24.255272505103306
+Kimi K3,Moonshot,China,"Language,Multimodal,Vision",2026-07-16,2800000000000.0,2.0001e+25,2026.536618754278,25.301051709845225
+Inkling,Thinking Machines,United States of America,"Language,Multimodal,Audio,Video,Vision",2026-07-15,975000000000.0,1.1e+25,2026.5338809034909,25.041392685158225
+LongCat-2.0,Meituan Inc,China,Language,2026-06-29,1600000000000.0,1.008e+25,2026.4900752908966,25.003460532109507
+Solar Open2 250B,Upstage,South Korea,Language,2026-06-28,250300000000.0,1.05e+24,2026.4873374401095,24.02118929906994
+Nemotron 3 Ultra,Nvidia,United States of America,Language,2026-06-04,550000000000.0,6.6e+24,2026.4216290212185,24.81954393554187
+Composer 2.5,Cursor,United States of America,Language,2026-05-18,1040000000000.0,3.87e+25,2026.375085557837,25.58771096501891
+DeepSeek-V4-Pro,DeepSeek,China,Language,2026-04-24,1600000000000.0,9.702e+24,2026.3093771389458,24.986861270290046
+DeepSeek-V4-Flash,DeepSeek,China,Language,2026-04-24,284000000000.0,2.496e+24,2026.3093771389458,24.397244581010387
+MiMo-V2.5-Pro,Xiaomi Corp,China,Language,2026-04-23,1020000000000.0,6.804e+24,2026.3066392881587,24.832764304940532
+MiMo-V2.5,Xiaomi Corp,China,"Language,Multimodal,Vision,Audio,Video",2026-04-22,310000000000.0,4.32e+24,2026.3039014373717,24.635483746814913
+EXAONE 4.5,LG AI Research,South Korea,"Language,Multimodal",2026-04-09,33200000000.0,3.85e+24,2026.2683093771388,24.5854607295085
+MolmoAct 2,"Allen Institute for AI,University of Washington,National University of Singapore,University of Pennsylvania,Johns Hopkins University,Amazon,Cortex AI","United States of America,United States of America,Singapore,United States of America,United States of America,United States of America,United States of America","Vision,Language,Robotics",2026-04-05,5485309424.0,1.1e+22,2026.2573579739903,22.041392685158225
+Composer 2,Cursor,United States of America,Language,2026-03-19,1040000000000.0,2.32e+25,2026.2108145106092,25.3654879848909
+GLM-5,Z.ai (Zhipu AI),China,Language,2026-02-12,744000000000.0,6.84e+24,2026.1149897330595,24.835056101720117
+Kimi K2.5,Moonshot,China,Language,2026-02-02,1040000000000.0,5.8e+24,2026.0876112251883,24.76342799356294
+Solar Open 100B,Upstage,South Korea,Language,2025-12-31,102000000000.0,1.3999999999999998e+24,2025.996577686516,24.146128035678238
+K-EXAONE,LG AI Research,South Korea,Language,2025-12-31,236000000000.0,1.52e+24,2025.996577686516,24.181843587944773
+GLM-4.7,Z.ai (Zhipu AI),China,Language,2025-12-22,358000000000.0,4.42e+24,2025.971937029432,24.64542226934909
+Nemotron 3-Nano-30B-A3B,Nvidia,United States of America,Language,2025-12-15,31600000000.0,4.8e+23,2025.952772073922,23.681241237375588
+Olmo 3,Allen Institute for AI,United States of America,Language,2025-11-20,32000000000.0,1.0999999999999999e+24,2025.8843258042436,24.041392685158225
+Kimi K2 Thinking,Moonshot,China,Language,2025-11-06,1000000000000.0,4.1999999999999997e+24,2025.8459958932237,24.6232492903979
+Ling-1T,Ant Group,China,Language,2025-10-10,1000000000000.0,6.000001e+24,2025.7720739219712,24.77815132276605
+GLM-4.6,"Z.ai (Zhipu AI),Tsinghua University","China,China",Language,2025-09-30,357000000000.0,4.42e+24,2025.7446954140999,24.64542226934909
+Qwen3-VL-235B-A22B,Alibaba,China,"Language,Vision,Multimodal,Video",2025-09-23,235000000000.0,5.038044e+24,2025.72553045859,24.702261956110437
+Qwen3-Omni-30B-A3B,Alibaba,China,"Multimodal,Language,Vision,Speech,Video",2025-09-22,35300000000.0,3.6e+22,2025.7227926078028,22.556302500767288
+AgentFounder-30B,Alibaba,China,Language,2025-09-16,30000000000.0,6.5367e+23,2025.7063655030802,23.81535855360072
+Qwen3-Max,Alibaba,China,Language,2025-09-05,1000000000000.0,1.512e+25,2025.6762491444217,25.17955179116519
+LongCat-Flash,Meituan Inc,China,Language,2025-09-01,560000000000.0,3.726e+24,2025.6652977412732,24.571242850560225
+GPT-5,OpenAI,United States of America,"Multimodal,Language,Vision",2025-08-07,,6.6e+25,2025.5968514715948,25.81954393554187
+gpt-oss-120b,OpenAI,United States of America,Language,2025-08-05,116830000000.0,4.94e+24,2025.5913757700205,24.693726948923647
+gpt-oss-20b,OpenAI,United States of America,Language,2025-08-05,20910000000.0,5.49e+23,2025.5913757700205,23.739572344450092
+GLM-4.5,"Z.ai (Zhipu AI),Tsinghua University","China,China",Language,2025-07-28,355000000000.0,4.42e+24,2025.5694729637235,24.64542226934909
+Qwen3-235B-A22B-Thinking (Jul 2025),Alibaba,China,Language,2025-07-25,235000000000.0,4.752e+24,2025.561259411362,24.676876431973138
+Qwen3-235B-A22B (Jul 2025),Alibaba,China,Language,2025-07-25,235000000000.0,4.752e+24,2025.561259411362,24.676876431973138
+Qwen3-Coder-480B-A35B,Alibaba,China,Language,2025-07-22,480000000000.0,1.575e+24,2025.5530458590006,24.19728055812562
+EXAONE 4.0 (32B),LG AI Research,South Korea,Language,2025-07-15,32000000000.0,2.69000000000001e+24,2025.5338809034909,24.42975228000241
+Kimi K2,Moonshot,China,Language,2025-07-11,1000000000000.0,2.976e+24,2025.5229295003423,24.47363292687384
+Grok 4,xAI,United States of America,"Language,Multimodal,Vision",2025-07-09,3000000000000.0,5.0000000000001e+26,2025.517453798768,26.698970004336026
+FGN,Google DeepMind,United States of America,Earth science,2025-06-12,720000000.0,9.61895088e+21,2025.4435318275155,21.983127706978237
+DeepSeek-R1 (May 2025),DeepSeek,China,Language,2025-05-28,671000000000.0,3.3e+24,2025.4024640657085,24.518513939877888
+Seed1.5-VL,ByteDance,China,"Vision,Language,Multimodal,Video",2025-05-11,,1.388556e+24,2025.3559206023272,24.142563399390966
+Qwen3-235B-A22B,Alibaba,China,Language,2025-04-29,235000000000.0,4.752e+24,2025.3230663928816,24.676876431973138
+Pangu Ultra,Huawei,China,Language,2025-04-10,135000000000.0,1.0692e+25,2025.2710472279261,25.0290589500845
+Llama 4 Scout,Meta AI,United States of America,"Multimodal,Language,Vision",2025-04-05,109000000000.0,4.08e+24,2025.2573579739903,24.61066016308988
+Llama 4 Maverick,Meta AI,United States of America,"Multimodal,Language,Vision",2025-04-05,400000000000.0,2.244000000001e+24,2025.2573579739903,24.351022852584318
+Llama 4 Behemoth (preview),Meta AI,United States of America,"Multimodal,Language,Vision",2025-04-05,2000000000000.0,5.18400000000001e+25,2025.2573579739903,25.714664992862538
+DeepSeek-V3 (Mar 2025),DeepSeek,China,Language,2025-03-24,671000000000.0,3.3e+24,2025.2245037645448,24.518513939877888
+EXAONE Deep 32B,LG AI Research,South Korea,Language,2025-03-16,32000000000.0,1.26e+24,2025.2026009582478,24.100370545117563
+Hunyuan-TurboS,Tencent,China,Language,2025-03-11,560000000000.0,5.4e+24,2025.1889117043122,24.73239375982297
+QwQ-32B,Alibaba,China,Language,2025-03-06,32500000000.0,3.51e+24,2025.1752224503764,24.545307116465825
+GPT-4.5,OpenAI,United States of America,"Language,Vision,Multimodal",2025-02-27,,3.8e+26,2025.1560574948664,26.57978359661681
+Claude 3.7 Sonnet,Anthropic,United States of America,"Language,Vision,Multimodal",2025-02-24,,3.3499999999999998e+25,2025.1478439425052,25.525044807036846
+Grok 3,xAI,United States of America,"Language,Vision,Multimodal",2025-02-17,3000000000000.0,3.5000000000000006e+26,2025.1286789869953,26.544068044350276
+Eagle 2,"Nvidia,Nanjing University,Tsinghua University,Hong Kong Polytechnic University,Johns Hopkins University,New York University (NYU)","United States of America,China,China,Hong Kong,United States of America,United States of America","Vision,Robotics,Language",2025-01-20,8930000000.0,4.7156e+22,2025.0520191649555,22.67353695902688
+DeepSeek-R1,DeepSeek,China,Language,2025-01-20,671000000000.0,3.3e+24,2025.0520191649555,24.518513939877888
+Eurus-2-7B-PRIME,"Tsinghua University,University of Illinois Urbana-Champaign (UIUC),Shanghai AI Lab,Peking University,Shanghai Jiao Tong University,CUHK Shenzhen Research Institute","China,United States of America,China,China,China,China","Mathematics,Language",2025-01-02,7000000000.0,4.01915904e+20,2025.002737850787,20.604135191767504
+DeepSeek-V3,DeepSeek,China,Language,2024-12-24,671000000000.0,3.3e+24,2024.9801505817934,24.518513939877888
+EXAONE 3.5 32B,LG AI Research,South Korea,Language,2024-12-09,32000000000.0,1.25e+24,2024.9390828199862,24.096910013008056
+Llama 3.3 70B,Meta AI,United States of America,Language,2024-12-06,70000000000.0,6.8649768e+24,2024.930869267625,24.836639073889014
+Amazon Nova Pro,Amazon,United States of America,"Multimodal,Language,Video,Vision",2024-12-03,,6.000010000000001e+24,2024.9226557152635,24.778151974207177
+Hunyuan-Large,Tencent,China,Language,2024-11-06,389000000000.0,3.49237e+24,2024.848733744011,24.543120248906924
+Doubao-pro,ByteDance,China,Language,2024-10-28,500000000000.0,2.505e+25,2024.8240930869267,25.398807730203263
+NVLM-X 72B,Nvidia,United States of America,"Vision,Language",2024-10-22,72000000000.0,3.0398181e+24,2024.807665982204,24.48284759659237
+NVLM-H 72B,Nvidia,United States of America,"Vision,Language",2024-10-22,72000000000.0,3.02e+24,2024.807665982204,24.48000694295715
+NVLM-D 72B,Nvidia,United States of America,"Vision,Language",2024-10-22,72000000000.0,3.02e+24,2024.807665982204,24.48000694295715
+Yi-Lightning,01.AI,China,Language,2024-10-16,,1.5e+24,2024.7912388774812,24.17609125905568
+CHAI-1,Chai discovery,United States of America,Biology,2024-10-15,,7.7605724e+21,2024.7885010266941,21.889893754891375
+Llama-3.1-Nemotron-70B-Instruct,"Nvidia,Meta AI","United States of America,United States of America",Language,2024-10-12,,7.929e+24,2024.7802874743327,24.899218417851372
+RDT-1B,Tsinghua University,China,Robotics,2024-10-10,1200000000.0,4.06e+22,2024.7748117727583,22.608526033577196
+Movie Gen Video,Meta AI,United States of America,"Video,Vision",2024-10-04,30000000000.0,1.65e+24,2024.7583846680357,24.217483944213907
+Llama 3.2 11B,Meta AI,United States of America,"Multimodal,Vision,Language",2024-09-24,10600000000.0,5.79e+23,2024.7310061601643,23.762678563727437
+Telechat2-115B,China Telecom,China,Language,2024-09-20,115000000000.0,6.899999999999999e+24,2024.7200547570158,24.838849090737256
+Qwen2.5-72B,Alibaba,China,Language,2024-09-19,72700000000.0,7.8e+24,2024.7173169062287,24.89209460269048
+Qwen2.5 Instruct (72B),Alibaba,China,Language,2024-09-19,72700000000.0,7.8516e+24,2024.7173169062287,24.894958166345987
+Qwen2.5-32B,Alibaba,China,Language,2024-09-17,32500000000.0,3.51e+24,2024.7118412046543,24.545307116465825
+DeepSeek-V2.5,DeepSeek,China,Language,2024-09-06,236000000000.0,1.7892e+24,2024.6817248459959,24.25265888950062
+Grok-2,xAI,United States of America,"Language,Vision,Multimodal",2024-08-13,,2.9599999999999996e+25,2024.6160164271048,25.47129171105894
+LLaVA-OV-72B,"ByteDance,Nanyang Technological University,Chinese University of Hong Kong (CUHK),Hong Kong University of Science and Technology (HKUST)","China,Singapore,Hong Kong,Hong Kong","Multimodal,Vision,Language,Video",2024-08-06,72000000000.0,3.036551985824e+24,2024.5968514715948,24.48238072065148
+AFM-server,Apple,United States of America,Language,2024-07-29,,4.3e+24,2024.5749486652978,24.633468455579585
+AFM-on-device,Apple,United States of America,Language,2024-07-29,2730000000.0,4.5126e+23,2024.5749486652978,23.65442683906152
+Llama 3.1-405B,Meta AI,United States of America,Language,2024-07-23,405000000000.0,3.8e+25,2024.558521560575,25.57978359661681
+ESM3 (98B),"EvolutionaryScale,University of California (UC) Berkeley","United States of America,United States of America",Biology,2024-06-25,98500000000.0,1.07e+24,2024.4818617385351,24.029383777685208
+Claude 3.5 Sonnet,Anthropic,United States of America,"Multimodal,Language,Vision",2024-06-20,,2.700000000000001e+25,2024.4681724845996,25.431363764158988
+DeepSeek-Coder-V2 236B,DeepSeek,China,Language,2024-06-17,236000000000.0,1.2852e+24,2024.4599589322381,24.10897071687948
+Nemotron-4 340B,Nvidia,United States of America,Language,2024-06-14,340000000000.0,1.7999999999999999e+25,2024.4517453798767,25.255272505103306
+OpenVLA,"Stanford University,University of California (UC) Berkeley,Toyota Research Institute,Google DeepMind,Massachusetts Institute of Technology (MIT),Physical Intelligence","United States of America,United States of America,United States of America,United States of America,United States of America,United States of America","Robotics,Vision,Language",2024-06-13,7188100000.0,1.1e+23,2024.4490075290896,23.041392685158225
+Qwen2-72B,Alibaba,China,Language,2024-06-07,72710000000.0,3.02e+24,2024.432580424367,24.48000694295715
+ALLaM adapted 70B,Saudi Data and Artificial Intelligence Authority,Saudi Arabia,Language,2024-05-21,70000000000.0,1.062e+24,2024.3860369609856,24.02612451674545
+Octo-Base,"University of California (UC) Berkeley,Stanford University,Carnegie Mellon University (CMU),DeepMind","United States of America,United States of America,United States of America,United Kingdom",Robotics,2024-05-20,93000000.0,5.85e+20,2024.3832991101985,20.76715586608218
+Yi-Large,01.AI,China,Language,2024-05-13,100000000000.0,1.8e+24,2024.3641341546886,24.255272505103306
+AlphaFold 3,"Google DeepMind,Isomorphic Labs","United States of America,United Kingdom",Biology,2024-05-08,,4.1405645e+22,2024.350444900753,22.617059554290584
+VILA1.5-13B,"Nvidia,Massachusetts Institute of Technology (MIT)","United States of America,United States of America","Multimodal,Language,Vision,Video",2024-05-03,13493916736.0,2.3003136e+21,2024.3367556468172,21.361787047089525
+GenCast,Google DeepMind,United States of America,Earth science,2024-05-01,,8.169984e+20,2024.331279945243,20.912221206016074
+Llama 3-70B,Meta AI,United States of America,Language,2024-04-18,70000000000.0,7.861e+24,2024.2956878850102,24.895477796275713
+Reka Core,Reka AI,United States of America,"Multimodal,Language,Vision,Video,Speech",2024-04-15,67000000000.0,8.400010000000001e+24,2024.2874743326488,24.924279803078814
+DBRX,Databricks,United States of America,Language,2024-03-27,132000000000.0,2.6e+24,2024.2354551676933,24.414973347970818
+MM1-30B,Apple,United States of America,"Multimodal,Language,Vision",2024-03-14,30000000000.0,4.86e+23,2024.1998631074607,23.686636269262294
+Inflection-2.5,Inflection AI,United States of America,Language,2024-03-07,,8.000001e+24,2024.1806981519508,24.90309004127875
+Aramco Metabrain AI,Saudi Aramco,Saudi Arabia,Language,2024-03-04,250000000000.0,1.05e+25,2024.1724845995893,25.02118929906994
+MegaScale (Production),"ByteDance,Peking University","China,China",Language,2024-02-23,530000000000.0,3.9e+24,2024.145106091718,24.5910646070265
+Stable Diffusion 3,Stability AI,United Kingdom,Image generation,2024-02-22,8000000000.0,5e+22,2024.1423682409309,22.69897000433602
+Qwen1.5-72B,Alibaba,China,Language,2024-02-04,72000000000.0,1.3e+24,2024.0930869267625,24.113943352306837
+GQA-8-XXL,Google Research,United States of America,Language,2023-12-23,11000000000.0,3.4912896e+22,2023.974674880219,22.542985874728096
+nekomata-14b,rinna,Japan,Language,2023-12-21,14200000000.0,2.5562e+23,2023.9691991786447,23.407594830510746
+FunSearch,Google DeepMind,United States of America,"Language,Search",2023-12-14,15000000000.0,3.87e+23,2023.950034223135,23.58771096501891
+CogAgent,"Tsinghua University,Z.ai (Zhipu AI)","China,China","Vision,Language",2023-12-14,18000000000.0,6.707e+22,2023.950034223135,22.826528306340652
+VILA-13B,"Nvidia,Massachusetts Institute of Technology (MIT)","United States of America,United States of America","Multimodal,Language,Vision",2023-12-12,13350839296.0,2.3003136e+21,2023.9445585215606,21.361787047089525
+Mixtral 8x7B,Mistral AI,France,Language,2023-12-11,46700000000.0,7.74e+23,2023.9418206707735,23.88874096068289
+Llama Guard,Meta AI,United States of America,Language,2023-12-07,7000000000.0,1.6e+23,2023.930869267625,23.204119982655925
+Gemini 1.0 Ultra,Google DeepMind,United States of America,"Multimodal,Language,Vision",2023-12-06,,5.0000000001e+25,2023.9281314168377,25.698970004344705
+Qwen-72B,Alibaba,China,Language,2023-11-30,72000000000.0,1.3e+24,2023.911704312115,24.113943352306837
+Inflection-2,Inflection AI,United States of America,Language,2023-11-22,,1.001e+25,2023.889801505818,25.00043407747932
+Nemotron-3-8B,Nvidia,United States of America,Language,2023-11-15,8000000000.0,1.8e+23,2023.870636550308,23.255272505103306
+GraphCast,Google DeepMind,United States of America,Earth science,2023-11-14,,2.1e+22,2023.8678986995208,22.32221929473392
+Volcano 13B,"Korea University,Korea Advanced Institute of Science and Technology (KAIST),LG","South Korea,South Korea,South Korea","Language,Multimodal,Vision",2023-11-13,13000000000.0,4.56e+22,2023.8651608487337,22.658964842664435
+SPHINX (Llama 2 13B),"Shanghai AI Lab,Chinese University of Hong Kong (CUHK),ShanghaiTech University","China,Hong Kong,China","Vision,Language,Multimodal",2023-11-13,19900000000.0,3.04e+22,2023.8651608487337,22.482873583608754
+RoFormer,Zhuiyi Technology,China,Language,2023-11-08,110000000.0,2.162688e+18,2023.851471594798,18.334993870501588
+MultiBand Diffusion,"Meta AI,Hebrew University of Jerusalem,LORIA","United States of America,Israel,France","Audio,Speech",2023-11-08,,2.6e+19,2023.851471594798,19.414973347970818
+CogVLM-17B,"Tsinghua University,Z.ai (Zhipu AI),Beihang University","China,China,China","Multimodal,Vision,Language",2023-11-06,17000000000.0,6.331e+22,2023.8459958932237,22.801472313521472
+LLaVA 1.5,"University of Wisconsin Madison,Microsoft Research","United States of America,United States of America","Multimodal,Language,Vision",2023-11-05,13000000000.0,7.807e+22,2023.8432580424367,22.892484179364686
+Grok-1,xAI,United States of America,Language,2023-11-04,314000000000.0,2.90000000001e+24,2023.8405201916496,24.462397997900453
+Yi-34B,01.AI,China,Language,2023-11-02,34000000000.0,6.1e+23,2023.8350444900752,23.785329835010767
+Skywork-13B,Kunlun Inc.,China,Language,2023-10-30,13000000000.0,2.5e+23,2023.8268309377138,23.397940008672037
+ChatGLM3-6B,Z.ai (Zhipu AI),China,"Multimodal,Language,Vision",2023-10-27,6000000000.0,5.04e+22,2023.8186173853526,22.702430536445526
+CODEFUSION (Python),"Microsoft,Microsoft Research","United States of America,United States of America",Language,2023-10-26,75000000.0,7.92e+18,2023.8158795345653,18.898725181589494
+RoseTTAFold All-Atom (RFAA),"University of Washington,Seoul National University,University of Sheffield","United States of America,South Korea,United Kingdom",Biology,2023-10-09,,2.14e+20,2023.7693360711842,20.33041377334919
+FinGPT-13B,"University of California Los Angeles (UCLA),Columbia University,New York University (NYU)","United States of America,United States of America,United States of America",Language,2023-10-07,13000000000.0,1.6e+23,2023.7638603696098,23.204119982655925
+Amazon Titan,Amazon,United States of America,"Language,Image generation",2023-09-28,200000000000.0,4.7999999999999996e+24,2023.7392197125257,24.681241237375588
+Falcon-180B,Technology Innovation Institute,United Arab Emirates,Language,2023-09-06,180000000000.0,3.76e+24,2023.6789869952088,24.57518784492766
+Swift,Intel Labs,United States of America,Robotics,2023-08-30,56804.0,5.337e+16,2023.6598220396988,16.727297202803587
+Jais,"Cerebras Systems,Mohamed bin Zayed University of Artificial Intelligence (MBZUAI),Inception G42","United States of America,United Arab Emirates,United Arab Emirates",Language,2023-08-29,13000000000.0,4.8946763e+22,2023.6570841889118,22.689723975858826
+PeptideBERT,Carnegie Mellon University (CMU),United States of America,Biology,2023-08-28,,4.9e+16,2023.6543463381245,16.690196080028514
+GGNN,"Westlake University,Tsinghua University,Toyota Technological Institute at Chicago","China,China,United States of America",Biology,2023-08-05,,7.56e+21,2023.5913757700205,21.878521795501207
+AudioLM,Google Research,United States of America,Audio,2023-07-26,1500000000.0,3.9e+18,2023.5639972621493,18.5910646070265
+Llama 2-70B,Meta AI,United States of America,Language,2023-07-18,70000000000.0,8.1e+23,2023.542094455852,23.90848501887865
+Llama 2-7B,Meta AI,United States of America,Language,2023-07-18,7000000000.0,8.4e+22,2023.542094455852,22.924279286061882
+Claude 2,Anthropic,United States of America,Language,2023-07-11,,3.866e+24,2023.5229295003423,24.587261849692535
+xTrimoPGLM -100B,"Tsinghua University,BioMap Research","China,China",Biology,2023-07-06,100000000000.0,6.2e+23,2023.5092402464065,23.792391689498253
+InternLM,"Shanghai AI Lab,SenseTime","China,Hong Kong",Language,2023-07-06,104000000000.0,9.984e+23,2023.5092402464065,23.99930457233835
+Pangu-Weather,Huawei,China,Earth science,2023-07-05,256000000.0,3.98e+22,2023.5065023956195,22.599883072073688
+HyenaDNA,"Stanford University,Harvard University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal","United States of America,United States of America,Canada,Canada",Biology,2023-06-27,6600000.0,1.811e+21,2023.4845995893224,21.257918450314058
+GPT-4 (Jun 2023),OpenAI,United States of America,"Multimodal,Language,Vision",2023-06-13,1800000000000.0,2.1e+25,2023.4462696783025,25.32221929473392
+PaLI-X,Google Research,United States of America,"Multimodal,Language,Vision,Video",2023-05-29,55000000000.0,5.6e+23,2023.4052019164956,23.7481880270062
+ONE-PEACE,"Alibaba,Huazhong University of Science and Technology","China,China","Multimodal,Vision,Speech,Language",2023-05-18,4000000000.0,1.8e+20,2023.375085557837,20.255272505103306
+InstructBLIP,"Salesforce Research,Hong Kong University of Science and Technology (HKUST),Nanyang Technological University","United States of America,Hong Kong,Singapore","Multimodal,Language,Vision",2023-05-11,13000000000.0,1.94e+20,2023.3559206023272,20.287801729930226
+PaLM 2,Google,United States of America,Language,2023-05-10,340000000000.0,7.34e+24,2023.35318275154,24.865696059916072
+StarCoder,"Hugging Face,ServiceNow,Northeastern University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),Carnegie Mellon University (CMU),Johns Hopkins University,Leipzig University,ScaDS.AI,Queen Mary University of London,Roblox,Sea AI Lab,Technion - Israel Institute of Technology,Monash University,CSIRO,Data61,McGill University,Saama,University of British Columbia (UBC),Massachusetts Institute of Technology (MIT),Technical University of Munich,IBM,University of Vermont,UnfoldML,SAP,University of Notre Dame,Columbia University,New York University (NYU),University of Allahabad,Discover Dollar,Toloka,Telefonica,Stanford University,Weizmann Institute of Science,Alan Turing Institute,Wellesley College,EleutherAI,Forschungszentrum Julich","United States of America,United States of America,United States of America,Canada,United States of America,United States of America,Germany,Germany,United Kingdom,United States of America,Singapore,Israel,Australia,Australia,Australia,Canada,United States of America,Canada,United States of America,Germany,United States of America,United States of America,Sweden,Germany,United States of America,United States of America,United States of America,India,India,Netherlands,Spain,United States of America,Israel,United Kingdom,United States of America,United States of America,Germany",Language,2023-05-09,15500000000.0,8.46e+22,2023.350444900753,22.927370363039024
+LLaVA,"University of Wisconsin Madison,Microsoft Research,Columbia University","United States of America,United States of America,United States of America","Multimodal,Vision,Language",2023-04-17,13000000000.0,7.8049e+22,2023.290212183436,22.89236734305168
+DINOv2,"Facebook AI Research,INRIA","United States of America,France,France",Vision,2023-04-14,1140000000.0,7.41851136e+21,2023.2819986310747,21.87031676606081
+Incoder-6.7B,"Facebook AI Research,University of Washington,University of California (UC) Berkeley,Carnegie Mellon University (CMU),Toyota Technological Institute at Chicago","United States of America,France,United States of America,United States of America,United States of America,United States of America",Language,2023-04-09,6700000000.0,3.00001e+21,2023.2683093771388,21.477122702365524
+Segment Anything Model,Meta AI,United States of America,Vision,2023-04-05,636000000.0,7.8e+21,2023.2573579739903,21.89209460269048
+BloombergGPT,"Bloomberg,Johns Hopkins University","United States of America,United States of America",Language,2023-03-30,50558868480.0,2.36e+23,2023.2409308692677,23.372912002970107
+VideoMAE V2,"Nanjing University,Shenzhen Institute of Advanced Technology,Shanghai AI Lab","China,China,China",Video,2023-03-29,1000000000.0,9.7e+21,2023.2381930184804,21.986771734266245
+SigLIP 400M,Google DeepMind,United States of America,Vision,2023-03-27,400000000.0,4.9467301e+21,2023.2327173169062,21.69431821534127
+PanGu-Σ,Huawei Noah's Ark Lab,China,Language,2023-03-20,1085000000000.0,4.67e+23,2023.2135523613963,23.66931688056611
+GPT-4 (Mar 2023),OpenAI,United States of America,"Multimodal,Language,Vision",2023-03-15,1800000000000.0,2.1e+25,2023.1998631074607,25.32221929473392
+Falcon-40B,Technology Innovation Institute,United Arab Emirates,Language,2023-03-15,40000000000.0,2.4e+23,2023.1998631074607,23.380211241711606
+AudioGen,"Meta AI,Hebrew University of Jerusalem","United States of America,Israel",Audio,2023-03-05,1000000000.0,9.5e+21,2023.1724845995893,21.977723605288848
+DiT-XL/2,"New York University (NYU),University of California (UC) Berkeley","United States of America,United States of America",Image generation,2023-03-02,675000000.0,6e+20,2023.1642710472279,20.778151250383644
+LLaMA-65B,Meta AI,United States of America,Language,2023-02-24,65200000000.0,5.5e+23,2023.1478439425052,23.740362689494244
+ViT-22B,Google,United States of America,Vision,2023-02-10,21743000000.0,1.93248e+23,2023.1095140314853,23.286115007928224
+BLIP-2 (Q-Former),Salesforce Research,United States of America,"Vision,Language",2023-01-30,1480000000.0,1.20000000001e+21,2023.0793976728269,21.079181246051245
+DDPM-IP (CelebA),Utrecht University,Netherlands,Image generation,2023-01-27,295000000.0,3.5e+20,2023.0711841204654,20.544068044350276
+Ankh_large,"Technical University of Munich,Columbia University","Germany,United States of America",Biology,2023-01-16,1900000000.0,6.5e+21,2023.041067761807,21.812913356642856
+Nucleotide Transformer,"Nvidia,Technical University of Munich,InstaDeep","United States of America,Germany,United Kingdom",Biology,2023-01-15,2500000000.0,8.08e+21,2023.03832991102,21.907411360774585
+DreamerV3,"DeepMind,University of Toronto","United Kingdom,Canada",Games,2023-01-10,200000000.0,2.2032e+20,2023.024640657084,20.343053922912848
+VALL-E,Microsoft,United States of America,"Audio,Speech",2023-01-05,353000000.0,1.01e+19,2023.0109514031485,19.00432137378264
+Hybrid H3-2.7B,"Stanford University,University at Buffalo","United States of America,United States of America",Language,2022-12-28,2700000000.0,6.48e+21,2022.9883641341546,21.811575005870594
+CaLM,University of Oxford,United Kingdom,Biology,2022-12-19,86000000.0,2.9e+19,2022.9637234770705,19.462397997898957
+Vega v2,"Wuhan University,JD Explore Academy,Shanghai AI Lab,Nanyang Technological University,Washington University in St Louis,Chongqing University of Posts and Telecommunications,University of Sydney","China,China,Singapore,United States of America,China,Australia",Language,2022-12-04,6000000000.0,7.76e+22,2022.9226557152635,22.88986172125819
+Discriminator Guidance,"Korea Advanced Institute of Science and Technology (KAIST),NAVER","South Korea,South Korea",Image generation,2022-11-28,,2.1570000001e+20,2022.9062286105407,20.33385014512268
+AR-LDM,"Alibaba,University of Waterloo,Vector Institute","China,Canada,Canada",Image generation,2022-11-20,1500000000.0,5.1e+20,2022.8843258042436,20.707570176097935
+Fusion in Encoder,Samsung,South Korea,Language,2022-11-18,330000000.0,1.3e+20,2022.8788501026695,20.113943352306837
+Galactica,Meta AI,United States of America,"Language,Biology",2022-11-16,120000000000.0,3.24e+23,2022.8733744010951,23.510545010206613
+EVA-01,"Beijing Academy of Artificial Intelligence / BAAI,Huazhong University of Science and Technology,Zhejiang University (ZJU),Beijing Institute of Technology","China,China,China,China",Vision,2022-11-14,1011000000.0,1.501e+22,2022.8678986995208,22.17638069224327
+InternImage,"Shanghai AI Lab,Tsinghua University,Nanjing University,SenseTime,Chinese University of Hong Kong (CUHK)","China,China,China,Hong Kong,Hong Kong",Vision,2022-11-10,1080000000.0,2.408e+21,2022.8569472963723,21.381656482585786
+Mogrifier RLSTM (WT2),DeepMind,United Kingdom,Language,2022-11-03,35000000.0,1.4e+17,2022.8377823408625,17.146128035678238
+eDiff-I,Nvidia,United States of America,Image generation,2022-11-02,9100000000.0,5.46e+19,2022.8350444900752,19.737192642704738
+U-PaLM (540B),Google,United States of America,Language,2022-10-20,540000000000.0,2.53e+24,2022.7994524298426,24.40312052117582
+Flan-PaLM 540B,Google,United States of America,Language,2022-10-20,540000000000.0,2.540000000001e+24,2022.7994524298426,24.40483371662011
+GenSLM,"University of Chicago,Nvidia,Harvard University,Cerebras Systems,Technical University of Munich,California Institute of Technology","United States of America,United States of America,United States of America,United States of America,Germany,United States of America",Biology,2022-10-11,25000000000.0,1.42e+21,2022.7748117727583,21.152288344383056
+AlphaTensor,DeepMind,United Kingdom,"Other,Games,Mathematics",2022-10-05,,7.1414784e+20,2022.7583846680357,20.853788126972116
+DiffDock,Massachusetts Institute of Technology (MIT),United States of America,Biology,2022-10-04,20240000.0,7.2e+19,2022.7556468172484,19.85733249643127
+Whisper,OpenAI,United States of America,Speech,2022-09-21,1550000000.0,4.2072663e+21,2022.7200547570158,21.624000001667657
+PaLI,Google,United States of America,"Language,Vision,Multimodal",2022-09-14,16900000000.0,1.69e+23,2022.7008898015058,23.227886704613674
+BEIT-3,Microsoft,United States of America,"Multimodal,Vision,Language",2022-08-22,1900000000.0,7e+19,2022.6379192334018,19.845098040014257
+BlenderBot 3,"McGill University,Meta AI,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)","Canada,United States of America,Canada",Language,2022-08-10,175000000000.0,4.3e+23,2022.6050650239563,23.633468455579585
+GLM-130B,Tsinghua University,China,Language,2022-08-04,130000000000.0,3.5490054945e+23,2022.5886379192334,23.550106671714225
+AlexaTM 20B,Amazon,United States of America,Language,2022-08-02,19750000000.0,2.04374016e+23,2022.583162217659,23.310425679010848
+OmegaPLM,"Massachusetts Institute of Technology (MIT),Westlake University","United States of America,China",Biology,2022-07-22,670000000.0,1.03514112e+22,2022.5530458590006,22.014999560864865
+ESM2-15B,"Meta AI,New York University (NYU),Stanford University,Massachusetts Institute of Technology (MIT)","United States of America,United States of America,United States of America,United States of America",Biology,2022-07-21,15000000000.0,7.35000000001e+22,2022.5503080082135,22.866287339084785
+BLOOM-176B,"Hugging Face,BigScience","United States of America,France",Language,2022-07-11,176247271424.0,3.65664e+23,2022.5229295003423,23.563082205700514
+NLLB,Meta AI,United States of America,Language,2022-07-06,54500000000.0,1.751113728e+22,2022.5092402464065,22.243314352730454
+CodeT5-large,Salesforce,United States of America,Language,2022-07-05,770000000.0,2.72e+21,2022.5065023956195,21.434568904034197
+Minerva (540B),Google,United States of America,Language,2022-06-29,540350000000.0,2.7415e+24,2022.4900752908966,24.4379882502195
+ProGen2-xlarge,"Salesforce Research,Columbia University,Johns Hopkins University","United States of America,United States of America,United States of America",Biology,2022-06-27,6400000000.0,1.35e+22,2022.4845995893224,22.130333768495007
+Parti,Google Research,United States of America,Image generation,2022-06-22,20000000000.0,5.09607936e+23,2022.4709103353866,23.707236182541916
+CoCa,Google Research,United States of America,Vision,2022-06-14,2100000000.0,7.3e+22,2022.4490075290896,22.863322860120455
+DITTO,"Tsinghua University,Apple,Westlake University,Chinese University of Hong Kong (CUHK)","China,United States of America,China,Hong Kong",Language,2022-06-06,750000000.0,3.31776e+18,2022.4271047227926,18.520844966846425
+Tranception,"University of Oxford,Harvard Medical School,Cohere","United Kingdom,United States of America,Canada",Biology,2022-05-27,700000000.0,7.24e+21,2022.3997262149212,21.859738566197148
+GPT-2 Medium (FlashAttention),"Stanford University,University at Buffalo","United States of America,United States of America",Language,2022-05-27,355000000.0,8.9280922e+20,2022.3997262149212,20.950758666555924
+Imagen,Google Brain,United States of America,Image generation,2022-05-23,7762000000.0,1.46e+22,2022.3887748117727,22.164352855784436
+Gato,DeepMind,United Kingdom,"Multimodal,Robotics,Games,Language",2022-05-12,1180000000.0,4.02e+21,2022.3586584531142,21.60422605308447
+UL2,"Google Research,Google Brain","United States of America,United States of America",Language,2022-05-10,20000000000.0,1.2e+23,2022.35318275154,23.079181246047625
+OPT-175B,Meta AI,United States of America,Language,2022-05-02,175000000000.0,4.3e+23,2022.331279945243,23.633468455579585
+Flamingo,DeepMind,United Kingdom,"Multimodal,Vision,Language,Video",2022-04-29,80000000000.0,2.18972000000001e+23,2022.3230663928816,23.340388585055067
+Sparse all-MLP,Meta AI,United States of America,Language,2022-04-14,9410000000.0,5.32224e+20,2022.2819986310747,20.72609445464332
+Stable Diffusion (LDM-KL-8-G),"Runway,Ludwig Maximilian University of Munich,Heidelberg University","United States of America,Germany,Germany",Image generation,2022-04-13,1450000000.0,5e+22,2022.2792607802876,22.69897000433602
+BERT-RBP,Waseda University,Japan,Biology,2022-04-07,110000000.0,1.4e+20,2022.2628336755647,20.146128035678238
+DALL·E 2,OpenAI,United States of America,Image generation,2022-04-06,3500000000.0,3.3695784e+23,2022.2600958247776,23.527575565557484
+PaLM (540B),Google Research,United States of America,Language,2022-04-04,540350000000.0,2.5272e+24,2022.2546201232033,24.402639612897094
+Chinchilla,DeepMind,United Kingdom,Language,2022-03-29,70000000000.0,5.76e+23,2022.2381930184804,23.760422483423213
+Make-A-Scene,Meta AI,United States of America,Image generation,2022-03-24,4000000000.0,6.4172851e+21,2022.2245037645448,21.80735133407167
+"Segatron-XL large, M=384 + HCP","Microsoft Research,University of Waterloo","United States of America,Canada",Language,2022-03-21,257000000.0,2.65e+19,2022.2162902121834,19.423245873936807
+GPT-3.5 (davinci-002),OpenAI,United States of America,Language,2022-03-15,,2.578e+24,2022.1998631074607,24.411282913017384
+ViT-G (model soup),"University of Washington,Columbia University,Google,Meta AI,Tel Aviv University","United States of America,United States of America,United States of America,United States of America,Israel",Vision,2022-03-10,1843000000.0,3.4e+21,2022.186173853525,21.531478917042254
+Statement Curriculum Learning,OpenAI,United States of America,"Language,Mathematics",2022-03-02,774000000.0,1.7901648e+22,2022.1642710472279,22.25289301334644
+PolyCoder,Carnegie Mellon University (CMU),United States of America,Language,2022-02-26,2700000000.0,1.1e+21,2022.1533196440794,21.041392685158225
+FourCastNet,"Nvidia,NERSC, Lawrence Berkeley National Laboratory,University of Michigan,Rice University,California Institute of Technology,Purdue University","United States of America,United States of America,United States of America,United States of America,United States of America,United States of America",Earth science,2022-02-22,,3.4504704e+20,2022.1423682409309,20.537878306145206
+ST-MoE,"Google,Google Brain,Google Research","United States of America,United States of America,United States of America",Language,2022-02-17,269000000000.0,2.9e+23,2022.1286789869953,23.462397997898957
+ProteinBERT,"Hebrew University of Jerusalem,Ben-Gurion University of the Negev,Deep Trading","Israel,Israel,United States of America",Biology,2022-02-10,16000000.0,6.5e+19,2022.1095140314853,19.812913356642856
+LaMDA,Google,United States of America,Language,2022-02-10,137000000000.0,3.55e+23,2022.1095140314853,23.550228353055093
+GPT-NeoX-20B,EleutherAI,United States of America,Language,2022-02-09,20000000000.0,9.31627008e+22,2022.1067761806983,22.96924207030419
+RETRO-7B,DeepMind,United Kingdom,Language,2022-02-07,7500000000.0,1.68e+22,2022.101300479124,22.225309281725863
+AlphaCode,DeepMind,United Kingdom,Language,2022-02-02,41100000000.0,2.38010000000001e+23,2022.0876112251883,23.37659520434048
+InstructGPT 175B,OpenAI,United States of America,Language,2022-01-27,175000000000.0,3.19181e+23,2022.0711841204654,23.50403703104727
+Detic,"Meta AI,University of Texas at Austin","United States of America,United States of America",Vision,2022-01-07,88000000.0,2.34399744e+19,2022.0164271047229,19.369957133031
+ERNIE 3.0 Titan,"Baidu,Peng Cheng Laboratory","China,China",Language,2021-12-23,260000000000.0,1.0421e+24,2021.974674880219,24.017909395896687
+XGLM-7.5B,"Meta AI,Facebook AI Research","United States of America,United States of America,France",Language,2021-12-20,7500000000.0,2.25e+22,2021.9664613278576,22.352182518111363
+Contriever,"Meta AI,University College London (UCL),PSL University,Université Grenoble Alpes","United States of America,United Kingdom,France,France",Language,2021-12-16,110000000.0,1.57e+20,2021.955509924709,20.195899652409235
+GLaM,Google,United States of America,Language,2021-12-13,1200000000000.0,3.6363112434e+23,2021.9472963723476,23.560661048781533
+Gopher (280B),DeepMind,United Kingdom,Language,2021-12-08,280000000000.0,6.31e+23,2021.933607118412,23.800029359244135
+Student of Games,DeepMind,United Kingdom,Games,2021-12-06,,3.667927300468287e+22,2021.9281314168377,22.56442071922308
+NÜWA,"Microsoft Research,Peking University","United States of America,China","Multimodal,Vision,Image generation,Video,Language",2021-11-24,870000000.0,7.24598784e+21,2021.8952772073922,21.860097600879122
+Florence,Microsoft,United States of America,Vision,2021-11-22,893000000.0,4.831e+22,2021.889801505818,22.68403703748652
+BASIC-L,Google,United States of America,Vision,2021-11-19,3070000000.0,4.12e+22,2021.8815879534566,22.614897216033135
+Swin Transformer V2 (SwinV2-G),Microsoft Research Asia,China,"Vision,Video",2021-11-18,3000000000.0,1.1e+21,2021.8788501026695,21.041392685158225
+Masked Autoencoders ViT-H,Facebook AI Research,"United States of America,France",Vision,2021-11-11,632000000.0,4.6e+20,2021.8596851471596,20.662757831681574
+Projected GAN,Heidelberg University,Germany,Image generation,2021-11-01,,1.05e+19,2021.8323066392882,19.02118929906994
+CodeT5-base,"Salesforce,Nanyang Technological University","United States of America,Singapore",Language,2021-11-01,220000000.0,1.56e+21,2021.8323066392882,21.193124598354462
+S4,Stanford University,United States of America,Language,2021-10-31,249000000.00000003,7.8328627e+19,2021.829568788501,19.89392051398612
+base LM+GNN+kNN,"Shannon.AI,Nanjing University,Nanyang Technological University,Zhejiang University (ZJU)","China,China,Singapore,China",Language,2021-10-17,274000000.0,5.2587456e+19,2021.7912388774812,19.720882161650387
+Yuan 1.0,Inspur,China,Language,2021-10-12,245730000000.0,3.5380000000001e+23,2021.7775496235456,23.548757828573716
+Megatron-Turing NLG 530B,"Microsoft,Nvidia","United States of America,United States of America",Language,2021-10-11,530000000000.0,8.586e+23,2021.7748117727583,23.93379088414342
+AlphaFold-Multimer,"Google DeepMind,DeepMind","United States of America,United Kingdom",Biology,2021-10-04,,4.35e+21,2021.7556468172484,21.63848925695464
+Turing ULRv5,Microsoft,United States of America,Language,2021-09-28,2200000000.0,2.8983951e+22,2021.7392197125257,22.462157586812857
+PLATO-XL,Baidu,China,Language,2021-09-20,11000000000.0,9.9e+21,2021.7173169062287,21.99563519459755
+HyperCLOVA 204B,NAVER,South Korea,Language,2021-09-10,204000000000.0,2.0000000001e+23,2021.6899383983573,23.301029995685695
+PermuteFormer,Peking University,China,Language,2021-09-06,149697024.0,2.775e+18,2021.6789869952088,18.443262987458695
+FLAN 137B,Google Research,United States of America,Language,2021-09-03,137000000000.0,2.047e+24,2021.6707734428473,24.311117842662505
+XLMR-XXL,Facebook AI Research,"United States of America,France",Language,2021-08-17,10700000000.0,3.366e+22,2021.624229979466,22.527114111639804
+DNABERT,Northeastern University,United States of America,Biology,2021-08-15,110000000.0,1.07e+20,2021.6187542778919,20.029383777685208
+Zidong Taichu,"Chinese Academy of Sciences,Wuhan AI Computing Center","China,China","Multimodal,Speech,Vision,Language",2021-08-11,3200000000.0,8.016e+20,2021.6078028747434,20.90395770852317
+Jurassic-1-Jumbo,AI21 Labs,Israel,Language,2021-08-11,178000000000.0,3.7e+23,2021.6078028747434,23.568201724066995
+YOLOX-X,Megvii Inc,China,Vision,2021-08-06,99100000.0,6.34275e+20,2021.5941136208078,20.802277593982964
+SEER,"Facebook AI Research,INRIA","United States of America,France,France",Vision,2021-07-29,1300000000.0,1.8e+22,2021.5722108145105,22.255272505103306
+HuBERT,Facebook AI Research,"United States of America,France",Speech,2021-07-27,1000000000.0,5.54e+21,2021.5667351129364,21.74350976472843
+GOAT,DeepMind,United Kingdom,Games,2021-07-27,3472816.0,2.412e+22,2021.5667351129364,22.382377303468115
+Codex,OpenAI,United States of America,Language,2021-07-07,12000000000.0,7.344e+22,2021.5119780971936,22.865932668193185
+ERNIE 3.0,Baidu,China,Language,2021-07-05,10000000000.0,2.25e+22,2021.5065023956195,22.352182518111363
+Adaptive Input Transformer + RD,"Microsoft Research Asia,Soochow University","China,Taiwan",Language,2021-06-28,247000000.00000003,8.58e+19,2021.4873374401095,19.933487287848706
+Fold2Seq,"IBM,Texas A&M","United States of America,United States of America",Biology,2021-06-24,12427904.0,1.4e+17,2021.476386036961,17.146128035678238
+EfficientNetV2-XL,"Google,Google Brain","United States of America,United States of America",Vision,2021-06-23,208000000.0,9.56e+19,2021.473648186174,19.9804578922761
+StyleGAN3-T,"Nvidia,Aalto University","United States of America,Finland",Image generation,2021-06-21,2230000.0,1.70208e+21,2021.4681724845996,21.230979968640487
+StyleGAN3-R,"Nvidia,Aalto University","United States of America,Finland",Image generation,2021-06-21,1580000.0,2.42784e+21,2021.4681724845996,21.385220062383972
+Denoising Diffusion Probabilistic Models (LSUN Bedroom),University of California (UC) Berkeley,United States of America,Vision,2021-06-11,256000000.0,7.840125000000001e+19,2021.4407939767282,19.89432298696728
+ALIGN,Google Research,United States of America,"Multimodal,Vision,Language",2021-06-11,820000000.0,2.598670000001e+22,2021.4407939767282,22.414751132799207
+DeBERTa,Microsoft,United States of America,Language,2021-06-10,1500000000.0,2.588e+22,2021.438056125941,22.412964271996664
+EMDR,"Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),McGill University,DeepMind","Canada,Canada,United Kingdom",Language,2021-06-09,440000000.0,1.91e+21,2021.435318275154,21.281033367247726
+CoAtNet,"Google,Google Research,Google Brain","United States of America,United States of America,United States of America",Vision,2021-06-09,2440000000.0,4.27e+22,2021.435318275154,22.630427875025024
+ViT-G/14,"Google Brain,Google Research","United States of America,United States of America",Vision,2021-06-08,1843000000.0,5.85e+22,2021.432580424367,22.76715586608218
+ByT5-XXL,"Google,Google Research","United States of America,United States of America",Language,2021-05-28,12900000000.0,8.1e+22,2021.4024640657085,22.90848501887865
+Transformer local-attention (NesT-B),"Google Cloud,Google Research","United States of America,United States of America",Vision,2021-05-26,90100000.0,2.40576e+19,2021.3969883641341,19.3812522996977
+CogView,"Tsinghua University,Alibaba DAMO Academy","China,China",Image generation,2021-05-26,4000000000.0,2.68e+22,2021.3969883641341,22.42813479402879
+MedBERT,"Peng Cheng Laboratory,University of Texas at Houston","China,United States of America",Medicine,2021-05-20,17000000.0,9.47e+18,2021.3805612594113,18.976349979003274
+ADM,OpenAI,United States of America,Image generation,2021-05-11,559000000.0,6.2e+21,2021.3559206023272,21.792391689498253
+ProtT5-XL-U50,"Technical University of Munich,Med AI Technology,Nvidia,Oak Ridge National Laboratory,Google,Seoul National University","Germany,China,United States of America,United States of America,United States of America,South Korea",Biology,2021-05-04,3000000000.0,1.8704498688e+22,2021.3367556468172,22.271946072868204
+ProtBERT-BFD,"Technical University of Munich,Nvidia,Seoul National University,Google,Oak Ridge National Laboratory,Med AI Technology","Germany,United States of America,South Korea,United States of America,United States of America,China",Biology,2021-05-04,420000000.0,3.9e+22,2021.3367556468172,22.5910646070265
+PLUG,Alibaba,China,Language,2021-04-19,27000000000.0,3.5997696e+22,2021.2956878850102,22.556274705030972
+M6-T,Alibaba,China,"Multimodal,Language,Vision",2021-03-05,1002700000000.0,5.5e+21,2021.1724845995893,21.740362689494244
+Generative BST,Facebook AI Research,"United States of America,France",Language,2021-03-05,9431810048.0,1.449e+22,2021.1724845995893,22.161068385471175
+Meta Pseudo Labels,"Google Brain,Google AI","United States of America,United States of America",Vision,2021-03-01,480000000.0,4.79e+22,2021.1615331964408,22.680335513414562
+SRU++ Large,ASAPP,United States of America,Language,2021-02-24,234000000.0,2.1173704e+19,2021.1478439425052,19.325796837521114
+MSA Transformer,"Facebook AI Research,University of California (UC) Berkeley,New York University (NYU)","United States of America,France,United States of America,United States of America",Biology,2021-02-13,100000000.0,5.49e+21,2021.1177275838468,21.739572344450092
+DLWP,"University of Washington,Microsoft Research","United States of America,United States of America",Earth science,2021-02-09,2676376.0,5.6845152e+18,2021.1067761806983,18.754693432094516
+DeiT-B,"Meta AI,Sorbonne University","United States of America,France",Vision,2021-01-15,86000000.0,7.884e+19,2021.03832991102,19.896746615607405
+Switch,Google,United States of America,Language,2021-01-11,1571000000000.0,8.22e+22,2021.0273785078714,22.91487181754005
+DALL-E,OpenAI,United States of America,Image generation,2021-01-05,12000000000.0,4.7e+22,2021.0109514031485,22.672097857935718
+CLIP (ViT L/14@336px),OpenAI,United States of America,"Multimodal,Vision,Language,Video",2021-01-05,370000000.0,1.05e+22,2021.0109514031485,22.02118929906994
+ERNIE-Doc (247M),Baidu,China,Language,2020-12-31,247000000.00000003,3.0302798e+19,2020.9993155373031,19.48148273080785
+CT-MoS (WT2),"Google,National Tsing Hua University","United States of America,Taiwan",Language,2020-12-25,45000000.0,5.4e+17,2020.9828884325805,17.73239375982297
+DensePhrases,"Korea University,Princeton University","South Korea,United States of America",Language,2020-12-23,,2.09952e+18,2020.977412731006,18.322120016077207
+ESM1b,"Facebook AI Research,New York University (NYU)","United States of America,France,United States of America",Biology,2020-12-15,652400000.0,5.1e+21,2020.955509924709,21.707570176097935
+CPM-Large,"Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI","China,China",Language,2020-12-01,2600000000.0,2.6052e+20,2020.9171800136892,20.415841069502044
+AlphaFold 2,DeepMind,United Kingdom,Biology,2020-11-30,93000000.0,2.99e+21,2020.914442162902,21.47567118832443
+KEPLER,"Tsinghua University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),HEC,CIFAR AI Research,Princeton University,University of Montreal / Université de Montréal","China,Canada,France,Canada,United States of America,Canada",Language,2020-11-23,125000000.0,1.66e+21,2020.8952772073922,21.220108088040057
+wave2vec 2.0 LARGE,Facebook,United States of America,Speech,2020-10-22,317000000.0,3.87072e+21,2020.807665982204,21.58779175647704
+ViT-Huge/14,"Google Brain,Google Research","United States of America,United States of America",Vision,2020-10-22,632000000.0,4.262e+21,2020.807665982204,21.629613445378183
+German ELECTRA Large,"deepset,Bayerische Staatsbibliothek Muenchen","Germany,Germany",Language,2020-10-21,335000000.0,1.42829568e+21,2020.8049281314168,21.154818122636097
+mT5-XXL,"Google,Google Research","United States of America,United States of America",Language,2020-10-20,13000000000.0,8.2e+22,2020.8021902806297,22.913813852383715
+Conformer + Wav2vec 2.0 + Noisy Student,"Google,Google Research,Google Brain","United States of America,United States of America,United States of America",Speech,2020-10-20,1000000000.0,7.6e+21,2020.8021902806297,21.88081359228079
+LUKE,"University of Washington,National Institute of Informatics","United States of America,Japan",Language,2020-10-02,483000000.0,1.8144e+22,2020.7529089664613,22.258733037212814
+ProBERTa,"University of Illinois Urbana-Champaign (UIUC),Reed College","United States of America,United States of America",Biology,2020-09-01,44000000.0,9.72e+18,2020.6680355920603,18.987666264926276
+ERNIE-GEN (large),Baidu,China,Language,2020-08-06,340000000.0,2e+20,2020.5968514715948,20.30102999566398
+DeLighT,"University of Washington,Allen Institute for AI,Facebook AI Research","United States of America,United States of America,United States of America,France",Language,2020-08-03,99000000.0,3.8016e+18,2020.5886379192334,18.579966418965082
+GShard (dense),Google,United States of America,Language,2020-06-30,2300000000.0,4.765e+22,2020.495550992471,22.678062904974347
+GPT-3 175B (davinci),OpenAI,United States of America,Language,2020-05-28,174600000000.0,3.14e+23,2020.4052019164956,23.496929648073216
+DETR,Facebook,United States of America,Vision,2020-05-26,60000000.0,4e+20,2020.3997262149212,20.602059991327963
+UnifiedQA,"Allen Institute for AI,University of Washington","United States of America,United States of America",Language,2020-05-02,11000000000.0,1.65e+19,2020.3340177960301,19.217483944213907
+Once for All,"MIT-IBM Watson AI Lab,Massachusetts Institute of Technology (MIT),IBM","United States of America,United States of America,United States of America",Vision,2020-04-29,7700000.0,6.237e+20,2020.3258042436687,20.794975744051133
+MetNet,Google,United States of America,Earth science,2020-03-24,225000000.0,9.510912e+18,2020.2272416153319,18.97822216337033
+ELECTRA,"Stanford University,Google,Google Brain","United States of America,United States of America,United States of America",Language,2020-03-23,335000000.0,3.1e+21,2020.2245037645448,21.49136169383427
+Tensor-Transformer(1core)+PN (WT103),University of California (UC) Berkeley,United States of America,Language,2020-03-17,85300000.0,1.58e+18,2020.208076659822,18.198657086954423
+TransformerXL + spectrum control,"University of California Los Angeles (UCLA),JD.com","United States of America,China",Language,2020-03-11,151000000.0,2.6289761e+19,2020.1916495550993,19.41978663795676
+Feedback Transformer,"LORIA,University of Lorraine,Facebook AI Research","France,France,United States of America,France",Language,2020-02-21,126000000.0,7.690547e+18,2020.1396303901438,18.885957230650984
+FFN SwiGLU,Google,United States of America,Language,2020-02-14,220000000.0,3.3687317e+19,2020.1204654346338,19.52746642331431
+Turing-NLG,Microsoft,United States of America,Language,2020-02-13,17000000000.0,1.57e+22,2020.1177275838468,22.195899652409235
+ALBERT-xxlarge,"Toyota Technological Institute at Chicago,Google","United States of America,United States of America",Language,2020-02-09,235000000.0,2.39e+21,2020.1067761806983,21.378397900948137
+TaLK Convolution,Carleton University,Canada,Language,2020-02-08,240000000.0,2.6990346e+19,2020.104038329911,19.431208451986215
+Meena,Google Brain,United States of America,Language,2020-01-28,2600000000.0,1.12e+23,2020.0739219712525,23.049218022670182
+ContextNet + Noisy Student,Google,United States of America,Speech,2020-01-19,,8.16e+21,2020.0492813141684,21.91169015875386
+AlphaFold,DeepMind,United Kingdom,Biology,2020-01-15,16340840.0,1e+20,2020.03832991102,20.0
+DD-PPO,"Georgia Institute of Technology,Facebook AI Research,Oregon State University,Simon Fraser University","United States of America,United States of America,France,United States of America,Canada",Robotics,2019-12-19,,7.8e+20,2019.9637234770705,20.89209460269048
+OpenAI Five Rerun,OpenAI,United States of America,Games,2019-12-13,159000000.0,1.3e+22,2019.9472963723476,22.113943352306837
+OpenAI Five,OpenAI,United States of America,Games,2019-12-13,159000000.0,6.7e+22,2019.9472963723476,22.826074802700827
+MMLSTM (WT-2),"Beijing University of Posts and Telecommunications,University of West London","China,United Kingdom",Language,2019-12-05,32300000.0,1.938e+17,2019.9253935660506,17.287353772714745
+MMLSTM (PTB),"Beijing University of Posts and Telecommunications,University of West London","China,United Kingdom",Language,2019-12-05,21300000.0,5.8298782e+16,2019.9253935660506,16.765659481410736
+Transformer-XL DeFINE (141M),"University of Washington,Allen Institute for AI","United States of America,United States of America",Language,2019-11-27,141000000.0,1.74276e+18,2019.9034907597536,18.24123758340818
+MuZero,DeepMind,United Kingdom,Games,2019-11-19,36864000.0,4.8e+19,2019.8815879534566,19.681241237375588
+Noisy Student (L2),"Carnegie Mellon University (CMU),Google","United States of America,United States of America",Vision,2019-11-11,480000000.0,2.612e+22,2019.8596851471596,22.416973172603036
+Sandwich Transformer,"Allen Institute for AI,Facebook AI Research","United States of America,United States of America,France",Language,2019-11-10,209000000.0,2.3504093e+19,2019.8569472963723,19.371143496847598
+CamemBERT,"Facebook,INRIA,Sorbonne University","United States of America,France,France",Language,2019-11-10,335000000.0,8.3e+20,2019.8569472963723,20.919078092376076
+XLM-RoBERTa,Facebook AI,United States of America,Language,2019-11-05,550000000.0,2.076e+22,2019.8432580424367,22.31722734917642
+Base LM + kNN LM + Continuous Cache,"Stanford University,Facebook AI Research","United States of America,United States of America,France",Language,2019-11-01,247000000.00000003,3.05292e+19,2019.8323066392882,19.484715424012464
+AlphaStar,DeepMind,United Kingdom,Games,2019-10-30,139000000.0,1.0773400001e+23,2019.8268309377138,23.032352784880736
+T5-11B,Google,United States of America,Language,2019-10-23,11000000000.0,3.3e+22,2019.807665982204,22.518513939877888
+T5-3B,Google,United States of America,Language,2019-10-23,2800000000.0,9.0000000001e+21,2019.807665982204,21.95424250944415
+DistilBERT,Hugging Face,United States of America,Language,2019-10-02,66000000.0,1.24416e+19,2019.7501711156742,19.094876234574144
+AlphaX-1,"Facebook AI Research,Brown University","United States of America,France,United States of America",Vision,2019-10-02,5400000.0,8.89344e+17,2019.7501711156742,17.949069779422928
+Megatron-LM (8.3B),Nvidia,United States of America,Language,2019-09-17,8300000000.0,9.1e+21,2019.7091033538672,21.959041392321094
+Megatron-LM (1.2B),Nvidia,United States of America,Language,2019-09-17,1200000000.0,1.1304e+21,2019.7091033538672,21.053232148840504
+Megatron-BERT,Nvidia,United States of America,Language,2019-09-17,3900000000.0,2.2e+22,2019.7091033538672,22.342422680822207
+UDSMProt,Fraunhofer Heinrich Hertz Institute,Germany,Biology,2019-09-04,28303800.0,6.37e+17,2019.6735112936344,17.80413943233535
+trRosetta,"Nankai University,University of Washington,Tianjin University,Harvard University","China,United States of America,China,United States of America",Biology,2019-08-22,,3.8047968e+19,2019.6379192334018,19.580331467678157
+Pluribus,Facebook AI Research,"United States of America,France",Games,2019-07-11,,6.6e+16,2019.5229295003423,16.81954393554187
+RoBERTa Large,"Facebook,University of Washington","United States of America,United States of America",Language,2019-07-01,355000000.0,8.5067e+21,2019.495550992471,21.929761117107013
+AWD-LSTM + MoS + Partial Shuffled,University of Texas at Austin,United States of America,Language,2019-06-10,35000000.0,3.15e+17,2019.438056125941,17.4983105537896
+Transformer-XL Large + Phrase Induction,"Massachusetts Institute of Technology (MIT),University of Illinois Urbana-Champaign (UIUC)","United States of America,United States of America",Language,2019-06-04,257000000.0,3.7848651e+20,2019.4216290212185,20.57805040500659
+XLNet,"Carnegie Mellon University (CMU),Google Brain","United States of America,United States of America",Language,2019-06-01,340000000.0,6.19e+21,2019.413415468857,21.79169064902012
+DLRM-2020,Facebook AI,United States of America,Recommendation,2019-05-31,100000000000.0,4e+18,2019.4106776180697,18.602059991327963
+AWD-LSTM-DRILL + dynamic evaluation† (WT2),IDIAP,Switzerland,Language,2019-05-14,34000000.0,4.08e+17,2019.3641341546886,17.61066016308988
+MuseNet,OpenAI,United States of America,Audio,2019-04-25,2038431744.0,2.208301056e+20,2019.3121149897331,20.34405828012909
+BERT-Large-CAS (PTB+WT2+WT103),Amazon,United States of America,Language,2019-04-20,395000000.0,1.5405e+20,2019.2984257357973,20.18766170265296
+WeNet (Penn Treebank),Amazon,United States of America,Language,2019-04-08,23000000.0,7.30000001e+17,2019.2655715263518,17.86332286071538
+Cross-lingual alignment,"Tel Aviv University,Massachusetts Institute of Technology (MIT)","Israel,United States of America",Language,2019-04-04,,2.56e+18,2019.2546201232033,18.40823996531185
+SciBERT,Allen Institute for AI,United States of America,Language,2019-03-26,110000000.0,8.926848e+19,2019.2299794661192,19.950698139980172
+KataGo,Jane Street,United States of America,Games,2019-02-27,2500000.0,2.32e+19,2019.1560574948664,19.3654879848909
+GPT-2 (1.5B),OpenAI,United States of America,Language,2019-02-14,1500000000.0,1.920000000001e+21,2019.1204654346338,21.283301228703777
+Hanabi 4 player,"DeepMind,University of Oxford,Carnegie Mellon University (CMU),Google Brain","United Kingdom,United Kingdom,United States of America,United States of America",Games,2019-02-01,764000.0,4.3e+18,2019.084873374401,18.633468455579585
+Transformer-XL (257M),"Carnegie Mellon University (CMU),Google Brain","United States of America,United States of America",Language,2019-01-09,257000000.0,3.7832771e+20,2019.021902806297,20.577868151653217
+StyleGAN,Nvidia,United States of America,Image generation,2018-12-12,26200000.0,3.93e+16,2018.9445585215606,16.594392550375428
+Multi-cell LSTM,University of Hyderabad,India,Language,2018-11-15,7200000.0,2006640000000000.0,2018.870636550308,15.302469465144572
+Fine-tuned-AWD-LSTM-DOC (fin),Samsung R&D Institute Russia,Russia,Language,2018-11-12,46000000.0,5.188e+16,2018.8624229979466,16.71499996741204
+Mesh-TensorFlow Transformer 4.9B (language),Google Brain,United States of America,Language,2018-11-05,4900000000.0,1.617408e+20,2018.8432580424367,20.20881958688098
+Mesh-TensorFlow Transformer 2.9B (translation),Google Brain,United States of America,Language,2018-11-05,2900000000.0,6.84288e+19,2018.8432580424367,19.83523892406839
+TrellisNet,"Carnegie Mellon University (CMU),Bosch Center for Artificial Intelligence,Intel Labs","United States of America,Germany,United States of America",Language,2018-10-15,180000000.0,2.78e+18,2018.7857631759068,18.444044795918078
+BERT-Large,Google,United States of America,Language,2018-10-11,340000000.0,2.85e+20,2018.7748117727583,20.45484486000851
+Transformer (Adaptive Input Embeddings) WT103,Facebook AI Research,"United States of America,France",Language,2018-09-28,247000000.0,4.47e+19,2018.7392197125257,19.650307523131936
+LSTM+NeuralCache,"KU Leuven,ESAT - PSI,Apple","Belgium,Belgium,United States of America",Language,2018-09-24,2100000.0,982800000000000.0,2018.7282683093772,14.992465147808044
+Transformer + Simple Recurrent Unit,"ASAPP,Cornell University,Google,Princeton University","United States of America,United States of America,United States of America,United States of America",Language,2018-09-17,90000000.0,1.1e+19,2018.7091033538672,19.041392685158225
+(ensemble): AWD-LSTM-DOC (fin) × 5 (WT2),"NTT Communication Science Laboratories,Tohoku University","Japan,Japan",Language,2018-08-30,185000000.0,6.66e+17,2018.6598220396988,17.8234742291703
+Big Transformer for Back-Translation,"Facebook AI Research,Google Brain","United States of America,France,United States of America",Language,2018-08-28,,4.7808e+20,2018.6543463381245,20.679500575799285
+Big-Little Net (speech),IBM,United States of America,Speech,2018-07-10,3320000.0,4.290048e+17,2018.520191649555,17.6324621513965
+Big-Little Net,IBM,United States of America,Vision,2018-07-10,77360000.0,2.46048e+17,2018.520191649555,17.391019839223812
+FTW (For The Win),DeepMind,United Kingdom,Games,2018-07-03,126001330.0,3.49e+19,2018.501026694045,19.54282542695918
+GPT-1,OpenAI,United States of America,Language,2018-06-01,117000000.0,1.7578125e+19,2018.413415468857,19.244972548463494
+aLSTM(depth-2)+RecurrentPolicy (WT2),"University of Manchester,Alan Turing Institute","United Kingdom,United Kingdom",Language,2018-05-22,32000000.0,7.296e+16,2018.3860369609856,16.86308482532036
+Dropout-LSTM+Noise(Bernoulli) (WT2),"Columbia University,New York University (NYU),Princeton University","United States of America,United States of America,United States of America",Language,2018-05-03,51000000.0,1.27e+17,2018.3340177960301,17.103803720955955
+ResNeXt-101 32x48d,Facebook,United States of America,Vision,2018-05-02,829000000.0,8.74395e+21,2018.331279945243,21.9417076655489
+YOLOv3,University of Washington,United States of America,Vision,2018-04-08,56933216.0,1.3416380824e+19,2018.2655715263518,19.12763537722284
+4 layer QRNN (h=2500),Salesforce Research,United States of America,Language,2018-03-22,151000000.0,5.9158815e+17,2018.2190280629707,17.772019466134264
+IMPALA,DeepMind,United Kingdom,Games,2018-02-05,1600000.0,1.68e+20,2018.0958247775495,20.225309281725863
+QRNN,Salesforce Research,United States of America,Language,2018-02-01,135000000.0,6.8866472e+17,2018.084873374401,17.838007834834045
+ELMo,"University of Washington,Allen Institute for AI","United States of America,United States of America",Language,2018-02-01,94000000.0,3300100000000010.0,2018.084873374401,15.518527100117337
+AlphaZero,DeepMind,United Kingdom,Games,2017-12-05,,1.0600000001e+20,2017.9253935660506,20.025305865305743
+"AWD-LSTM-MoS + dynamic evaluation (WT2, 2017)",Carnegie Mellon University (CMU),United States of America,Language,2017-11-10,35000000.0,3.36e+18,2017.8569472963723,18.526339277389845
+Fraternal dropout + AWD-LSTM 3-layer (WT2),"Jagiellonian University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal","Poland,Canada,Canada",Language,2017-10-31,34000000.0,3.06e+17,2017.829568788501,17.48572142648158
+AlphaGo Master,DeepMind,United Kingdom,Games,2017-10-19,,3.4100000001e+20,2017.7967145790553,20.532754379005233
+AlphaGo Zero,DeepMind,United Kingdom,Games,2017-10-18,46400244.0,6.49439910290227e+20,2017.7939767282683,20.812538973982353
+AWD-LSTM+WT+Cache+IOG (WT2),NTT Communication Science Laboratories,Japan,Language,2017-09-26,53000000.0,3180000000000000.0,2017.7337440109513,15.502427119984432
+ISS,"Duke University,Microsoft","United States of America,United States of America",Language,2017-09-15,11100000.000000002,3400000000000000.0,2017.7036276522929,15.531478917042255
+PyramidNet,Korea Advanced Institute of Science and Technology (KAIST),South Korea,Vision,2017-09-06,26000000.0,2340000000000000.0,2017.6789869952088,15.369215857410143
+GL-LWGC-AWD-MoS-LSTM + dynamic evaluation (WT2),Ben-Gurion University of the Negev,Israel,Language,2017-08-29,38000000.0,4.56e+17,2017.6570841889118,17.658964842664435
+Libratus,Carnegie Mellon University (CMU),United States of America,Games,2017-08-19,,5.51e+20,2017.6297056810404,20.741151598851786
+EI-REHN-1000D,Korea Advanced Institute of Science and Technology (KAIST),South Korea,Language,2017-08-14,19000000.0,1.06e+16,2017.6160164271048,16.02530586526477
+OpenAI TI7 DOTA 1v1,OpenAI,United States of America,Games,2017-08-11,,6.046095222592002e+20,2017.6078028747434,20.78147498278897
+RetinaNet-R101,Facebook AI Research,"United States of America,France",Vision,2017-08-07,53000000.0,2.065392e+18,2017.5968514715948,18.3150024905107
+AWD-LSTM - 3-layer LSTM (tied) + continuous cache pointer (WT2),Salesforce Research,United States of America,Language,2017-08-07,33000000.0,2.97e+17,2017.5968514715948,17.472756449317213
+ConvS2S (ensemble of 8 models),Meta AI,United States of America,Language,2017-07-25,,5.64e+19,2017.561259411362,19.751279103983343
+JFT,"Google Research,Carnegie Mellon University (CMU)","United States of America,United States of America",Vision,2017-07-10,44654504.0,8.43e+20,2017.520191649555,20.92582757462474
+DeepLoc,"Technical University of Denmark,University of Copenhagen","Denmark,Denmark",Biology,2017-07-07,,5.781024e+17,2017.5119780971936,17.762004772358324
+Transformer,"Google Research,Google Brain","United States of America,United States of America",Language,2017-06-12,213000000.0,7.4245248e+18,2017.4435318275155,18.870668662252935
+MoE-Multi,"Jagiellonian University,Google Brain","Poland,United States of America",Language,2017-01-23,8700000000.0,9.393905664e+19,2017.060232717317,19.972846194573016
+DeepStack,"University of Alberta,Charles University,Czech Technical University","Canada,Czechia,Czechia",Games,2017-01-06,2500000.0,1.446336e+19,2017.0136892539356,19.160269196136134
+EnhanceNet,Max Planck Institute for Intelligent Systems,Germany,Vision,2016-12-23,814464.0,1.3079231999999998e+17,2016.977412731006,17.116582243380112
+HR-ResNet101,Carnegie Mellon University (CMU),United States of America,Vision,2016-12-13,44500000.0,7.077e+18,2016.950034223135,18.84984919560526
+PolyNet,Chinese University of Hong Kong (CUHK),Hong Kong,Vision,2016-11-17,92000000.0,6.4e+19,2016.8788501026695,19.806179973983888
+ResNeXt-101 (64×4d),"University of California San Diego,Facebook","United States of America,United States of America",Vision,2016-11-16,83000000.0,1.2e+19,2016.8761122518822,19.079181246047625
+NASv3 (CIFAR-10),Google Brain,United States of America,Vision,2016-11-05,37400000.0,2.2e+21,2016.8459958932237,21.342422680822207
+NAS with base 8 and shared embeddings,Google Brain,United States of America,Language,2016-11-05,54000000.0,1.05e+16,2016.8459958932237,16.02118929906994
+BIDAF,"University of Washington,Allen Institute for AI","United States of America,United States of America",Language,2016-11-05,2600000.0,3.4686144e+18,2016.8459958932237,18.540156022741968
+VD-LSTM+REAL Large,"Salesforce Research,Stanford University","United States of America,United States of America",Language,2016-11-04,51000000.0,2.13e+16,2016.8432580424367,16.328379603438737
+SPIDER2,"Griffith University,University of Iowa,Dezhou University","Australia,United States of America,China",Biology,2016-10-28,409536.0,1.822e+16,2016.8240930869267,16.26054837263698
+Xception,Google,United States of America,Vision,2016-10-07,22855952.0,4.36e+20,2016.766598220397,20.639486489268585
+Pointer Sentinel-LSTM (medium),"MetaMind Inc,Salesforce","United States of America,United States of America",Language,2016-09-26,21000000.0,7490000000000000.0,2016.7364818617386,15.874481817699467
+GNMT,Google,United States of America,Language,2016-09-26,278000000.0,6.620000000001e+21,2016.7364818617386,21.820857989439766
+ResNet-200,Microsoft Research Asia,China,Vision,2016-09-17,,2.9741645e+19,2016.7118412046543,19.4733649855264
+R-FCN,"Tsinghua University,Microsoft Research","China,United States of America",Vision,2016-06-21,,7.1935776e+17,2016.4709103353866,17.856944932874356
+Named Entity Recognition model,Carnegie Mellon University (CMU),United States of America,Language,2016-03-04,,9.69408e+16,2016.1724845995893,16.986506599399036
+AlphaGo Lee,DeepMind,United Kingdom,Games,2016-01-27,,1.9e+21,2016.0711841204654,21.27875360095283
+"Variational (untied weights, MC) LSTM (Large)",University of Cambridge,United Kingdom,Language,2015-12-16,66000000.0,5886144000000000.0,2015.955509924709,15.769830882575079
+ResNet-152 (ImageNet),Microsoft,United States of America,Vision,2015-12-10,60200000.0,1.041408e+19,2015.9390828199862,19.017620909562556
+ResNet-101 (ImageNet),Microsoft,United States of America,Vision,2015-12-10,44500000.0,7.004e+18,2015.9390828199862,18.845346137411408
+Inception v3,"Google,University College London (UCL)","United States of America,United Kingdom",Vision,2015-12-02,23626728.0,1e+20,2015.9171800136892,20.0
+SAF R-CNN,"Beijing Institute of Technology,Sun Yat-sen University,Panasonic R&D,National University of Singapore","China,China,Singapore,Singapore",Vision,2015-10-28,138000000.0,1.231108125e+19,2015.8213552361397,19.09029619755251
+AlphaGo Fan,DeepMind,United Kingdom,Games,2015-10-01,8209984.0,3.8e+20,2015.7474332648871,20.57978359661681
+DCNN,"University of Maryland,Rutgers University","United States of America,United States of America",Vision,2015-08-07,5006000.0,4.8098691e+17,2015.5968514715948,17.682133257263384
+U-Net,University of Freiburg,Germany,Vision,2015-05-18,37676160.0,5.0832252e+16,2015.375085557837,16.706139350495704
+TC-DNN-BLSTM-DNN,Carnegie Mellon University (CMU),United States of America,Speech,2015-04-06,18413568.0,1.9410192e+17,2015.2600958247776,17.288029831324895
+genCNN + dyn eval,"Chinese Academy of Sciences,Huawei Noah's Ark Lab,Dublin City University","China,China,Ireland",Language,2015-03-17,8000000.0,3.4153451e+16,2015.2053388090349,16.53343459306981
+"MSRA (C, PReLU)",Microsoft Research,United States of America,Vision,2015-02-06,87048800.0,2.397403008e+19,2015.0985626283368,19.37974104589798
+ADAM (CIFAR-10),"University of Amsterdam,OpenAI,University of Toronto","Netherlands,United States of America,Canada",Vision,2014-12-22,2370000.0,624979800000000.0,2014.971937029432,14.795865980719586
+Fractional Max-Pooling,University of Warwick,United Kingdom,Vision,2014-12-18,27000000.0,1e+17,2014.9609856262834,17.0
+SNM-skip,Google,United States of America,Language,2014-12-03,62000000000.0,2.97600000001e+20,2014.9199178644765,20.4736329268753
+TA-CNN,Chinese University of Hong Kong (CUHK),Hong Kong,Vision,2014-11-29,706048.0,1.0854e+16,2014.908966461328,16.03558981724346
+GoogLeNet / InceptionV1,"Google,University of Michigan,University of North Carolina","United States of America,United States of America,United States of America",Vision,2014-09-17,6797700.0,1.51e+18,2014.7091033538672,18.17897694729317
+SPN-4+KN5,"Singapore University of Technology & Design,DSO National Laboratories","Singapore,Singapore",Language,2014-09-14,5000000.0,4.4e+16,2014.7008898015058,16.643452676486188
+Seq2Seq LSTM,Google,United States of America,Language,2014-09-10,1920000000.0,5.6e+19,2014.6899383983573,19.7481880270062
+VGG19,University of Oxford,United Kingdom,Vision,2014-09-04,144000000.0,1.1e+19,2014.6735112936344,19.041392685158225
+VGG16,University of Oxford,United Kingdom,Vision,2014-09-04,138000000.0,1.2291e+19,2014.6735112936344,19.089587218672804
+RNNsearch-50*,"Jacobs University Bremen,University of Montreal / Université de Montréal","Germany,Canada",Language,2014-09-01,,1.5552e+18,2014.6652977412732,18.1917862475822
+ACF-WIDER,Chinese Academy of Sciences,China,Vision,2014-07-15,6144.0,76380000000000.0,2014.5338809034909,13.8829796540373
+SmooCT,University College London (UCL),United Kingdom,Games,2014-07-01,,6.9e+16,2014.495550992471,16.838849090737256
+SPPNet,"Microsoft,Xi’an Jiaotong University,University of Science and Technology of China (USTC)","United States of America,China,China",Vision,2014-06-18,,3.411072e+18,2014.4599589322381,18.532890886476494
+GANs,University of Montreal / Université de Montréal,Canada,Image generation,2014-06-10,,5.184e+17,2014.438056125941,17.714664992862538
+Image generation,University of Amsterdam,Netherlands,Vision,2013-12-20,784000.0,475200000000000.0,2013.9664613278576,14.676876431973136
+DQN,DeepMind,United Kingdom,Games,2013-12-19,836096.0,2846883840000000.0,2013.9637234770705,15.45436974720449
+TransE,"Universite de Technologie de Compiègne – CNRS,Google","France,United States of America",Language,2013-12-05,942000000.0,1.340928e+18,2013.9253935660506,18.127405459401064
+Visualizing CNNs,New York University (NYU),United States of America,Vision,2013-11-12,,5.32e+17,2013.8624229979466,17.72591163229505
+Word2Vec (large),Google,United States of America,Language,2013-10-16,692000000.0,3.888e+16,2013.7885010266941,16.589726256254238
+RNTN,Stanford University,United States of America,Language,2013-10-01,,1.422e+16,2013.7474332648871,16.15289959639375
+RCTM,University of Oxford,United Kingdom,Language,2013-10-01,,9331200000000000.0,2013.7474332648871,15.969937497965843
+Hierarchical Scene Labeling (Stanford Background),New York University (NYU),United States of America,Vision,2013-08-01,51609600.0,2.3774688e+17,2013.580424366872,17.376114826313238
+ReLU-Speech,"Google,University of Toronto,New York University (NYU)","United States of America,Canada,United States of America",Speech,2013-05-26,101706240.0,1.2773376e+17,2013.3969883641341,17.106305696354926
+DistBelief NNLM,Google,United States of America,Language,2013-01-16,,2.612736e+18,2013.041067761807,18.417095529308064
+DNN EM segmentation,"IDSIA,SUPSI","Switzerland,Switzerland",Vision,2012-12-03,218896.0,4.78e+17,2012.9226557152635,17.67942789661212
+DistBelief Speech,Google,United States of America,Speech,2012-12-03,47185920.0,3.114e+17,2012.9226557152635,17.4933186082321
+AlexNet,University of Toronto,Canada,Vision,2012-09-30,60000000.0,4.7e+17,2012.7474332648871,17.672097857935718
+LSTM LM,RWTH Aachen University,Germany,Language,2012-09-09,102720000.0,1.66e+16,2012.6899383983573,16.220108088040057
+Unsupervised High-level Feature Learner,Google,United States of America,Vision,2012-07-12,1000000000.0,6e+17,2012.5284052019165,17.778151250383644
+Dropout (MNIST),University of Toronto,Canada,Vision,2012-06-03,5594010.0,6039370800000000.0,2012.4216290212185,15.78099169485922
+Dropout (ImageNet),University of Toronto,Canada,Vision,2012-06-03,,2.731968e+17,2012.4216290212185,17.436475608075085
+Dropout (CIFAR),University of Toronto,Canada,Vision,2012-06-03,,4268700000000000.0,2012.4216290212185,15.630295634091196
+CNN committee (traffic sign),IDSIA,Switzerland,Vision,2011-10-03,1388800.0,991981425600000.0,2011.7529089664613,14.996503540264111
+CNN Committee (NIST),IDSIA,Switzerland,Vision,2011-09-18,128420.0,2.6e+16,2011.7118412046543,16.414973347970818
+CNN Committee (MNIST),IDSIA,Switzerland,Vision,2011-09-18,120620.0,5.2e+16,2011.7118412046543,16.7160033436348
+High Performance CNN (NORB),"IDSIA,SUPSI","Switzerland,Switzerland",Vision,2011-07-16,4878300.0,2.57985e+16,2011.536618754278,16.41159445555002
+Deep Autoencoders,University of Toronto,Canada,Vision,2011-04-29,139808256.0,3.672864e+16,2011.3230663928816,16.565004847446016
+RNN LM,Johns Hopkins University,United States of America,Language,2010-09-26,70265000.0,5.396e+16,2010.7337440109513,16.732071940999866
+Pooling CNN (NORB),University of Bonn,Germany,Vision,2010-09-15,268664.0,1456277227200000.0,2010.7036276522929,15.163244058206782
+Pooling CNN (Caltech 101),University of Bonn,Germany,Vision,2010-09-15,294912.0,1221124128768000.0,2010.7036276522929,15.086759812756483
+iCCCP,Massachusetts Institute of Technology (MIT),United States of America,Vision,2010-06-13,,1080000000000000.0,2010.4462696783025,15.03342375548695
+Feedforward NN,University of Montreal / Université de Montréal,Canada,Vision,2010-05-13,7082000.0,350000000000000.0,2010.3613963039015,14.544068044350276
+LCNP NORB,,,Vision,2009-11-22,16818176.0,2452090060800000.0,2009.889801505818,15.389536416984303
+LCNP MNIST,,,Vision,2009-11-22,11616256.0,4181852160000000.0,2009.889801505818,15.62136867524609
+LCNP LabelMe,University of Bonn,Germany,Vision,2009-11-22,13729792.0,3295150080000000.0,2009.889801505818,15.517875199637619
+Two Stage Feature Extraction (MNIST),New York University (NYU),United States of America,Vision,2009-09-01,258800.0,20754000000000.0,2009.6652977412732,13.317101812398006
+GPU DBNs,Stanford University,United States of America,Other,2009-06-15,100000000.0,1000000000000000.0,2009.4517453798767,15.0
+GNN,University of Siena,Italy,Other,2008-12-09,30.0,1614600000.0,2008.9390828199862,9.208064948147397
+SB-LM,Google,United States of America,Language,2007-06-22,300000000000.0,1.4494464e+18,2007.4709103353866,18.16120215993618
+KN-LM,Google,United States of America,Language,2007-06-22,21000000000.0,7.7303808e+17,2007.4709103353866,17.888200887872443
+SVM-CNN,New York University (NYU),United States of America,Vision,2006-06-17,90857.0,745200000000000.0,2006.457221081451,14.872272846224204
+RankNet,"Microsoft Research,Microsoft","United States of America,United States of America",Search,2005-08-07,5711.0,3482081588304.0,2005.5968514715948,12.54183894281092
+Hierarchical LM,,,Language,2005-01-06,,115848000000000.0,2005.0136892539356,14.063888540530298
+LMICA,,,Vision,2004-12-01,4096000.0,2782080000000000.0,2004.9171800136892,15.444369614174724
+Invariant CNN,New York University (NYU),United States of America,Vision,2004-06-27,90575.0,974230000000.0,2004.4873374401095,11.98866149891041
+NPLM (Brown),University of Montreal / Université de Montréal,Canada,Language,2003-03-15,4124233.0,132076260000000.0,2003.1998631074607,14.120824762523368
+NPLM (AP News),University of Montreal / Université de Montréal,Canada,Language,2003-03-15,11904264.0,1666869200000000.0,2003.1998631074607,15.22190152187542
+Decision tree (classification),"Mitsubishi Electric Research Labs,Compaq CRL","United States of America,United States of America",Vision,2001-12-08,12000.0,63000000000000.0,2001.933607118412,13.799340549453582
+PoE MNIST,University College London (UCL),United Kingdom,Vision,2000-11-28,3925310.0,51810000000000.0,2000.908966461328,13.714413592287121
+Neural LM,University of Montreal / Université de Montréal,Canada,Language,2000-11-28,6906980.0,6339000000000000.0,2000.908966461328,15.802020751771975
+RECONTRA-uncategorized,,,Language,1999-06-02,112000.0,3864000000000.0,1999.416153319644,12.587037117743456
+RECONTRA-categorized,,,Language,1999-06-02,66780.0,8013600000000.0,1999.416153319644,12.903827660765977
+LeNet-5,AT&T,United States of America,Vision,1998-11-01,60000.0,2810937600000.0,1998.8323066392882,12.44885120481183
+LSTM,Technical University of Munich,Germany,Language,1997-11-15,10504.0,31512000000000.0,1997.870636550308,13.498475967801085
+SOM-CNN,,,Vision,1997-01-31,32015.0,31431600000.0,1997.082135523614,10.49736648898719
+System 11,Carnegie Mellon University (CMU),United States of America,Vision,1996-06-18,6452.0,25859616000.0,1996.4626967830254,10.412622071576113
+MUSIC perceptron,,,Vision,1996-06-03,13607.0,881733600000.0,1996.4216290212185,11.945337390657938
+LISSOM,University of Texas at Austin,United States of America,Vision,1995-11-27,432800.0,195544800000.0,1995.9034907597536,11.291246271521425
+Predictive Coding NN,Technical University of Munich,Germany,Language,1994-12-02,206910.0,18621900000000.0,1994.9171800136892,13.270023990147928
+NeuroChess,,,Games,1994-12-02,72251.0,858730812676.0,1994.9171800136892,11.933857046379654
+Mixture of linear models,,,Vision,1994-12-02,384000.0,453600000000.0,1994.9171800136892,11.65667304588485
+JPMAX,,,Vision,1994-12-02,4446.0,80828280.0,1994.9171800136892,7.90756333724892
+Ceramic-MLP,Sapienza Università di Roma,Italy,Materials science,1994-01-07,1888.0,4531200000.0,1994.0164271047229,9.656213231673656
+ANN Eye Tracker,,,Vision,1993-11-29,5620.0,17534400000.0,1993.908966461328,10.243890909587504
+Siamese-TDNN,Bell Laboratories,United States of America,Vision,1993-08-01,744.0,12869570138112.0,1993.580424366872,13.109564041095242
+Cancer drug mechanism prediction,National Cancer Institute,United States of America,Medicine,1992-10-16,594.0,53460000.0,1992.7912388774812,7.728028954420519
+TD-Gammon,IBM,United States of America,Games,1992-05-01,25000.0,18232157622832.703,1992.331279945243,13.260838066803219
+Weight Decay,,,Speech,1991-12-02,8386.0,75474000000.0,1991.9171800136892,10.877797367506874
+SexNet compression,,,Vision,1990-10-01,72940.0,78775200000.0,1990.7474332648871,10.896389514464712
+Bankruptcy-NN,,,Other,1990-06-17,36.0,3059337600.0,1990.457221081451,9.485627404322733
+NETtalk reimplementation,Oregon State University,United States of America,Speech,1990-06-01,27480.0,35811936000.0,1990.413415468857,10.554027799687965
+Zip CNN,"AT&T,Bell Laboratories","United States of America,United States of America",Vision,1989-12-01,9760.0,1496338054440.0,1989.914442162902,12.175029720929711
+Speaker-independent vowel classification,University of Washington,United States of America,Speech,1989-11-27,3040.0,7485696000.0,1989.9034907597536,9.874232186096156
+Handwritten digit recognition network,AT&T,United States of America,Vision,1989-11-27,2578.0,181440000000.0,1989.9034907597536,11.258733037212812
+Invariant image recognition,Complutense University of Madrid,Spain,Vision,1989-06-18,,27000000000.0,1989.4599589322381,10.431363764158988
+MLN-ASR,McGill University,Canada,Speech,1988-08-01,10000.0,296425000.0,1988.583162217659,8.471914828538695
+Translation-invariant MLP,Carnegie Mellon University (CMU),United States of America,,1987-06-15,816.0,18032947200.0,1987.4517453798767,10.256066711087202
+NetTalk (transcription),Princeton University,United States of America,Speech,1987-06-06,18629.0,28328002560.0,1987.4271047227926,10.452215952997225
+NetTalk (dictionary),Princeton University,United States of America,Speech,1987-06-06,18629.0,27664065000.0,1987.4271047227926,10.441915996357412
+MLP with back-propagation,"University of California San Diego,Carnegie Mellon University (CMU)","United States of America,United States of America",Mathematics,1986-10-01,720.0,673920000.0,1986.7474332648871,8.828608345169373
+Distributed representation NN,Carnegie Mellon University (CMU),United States of America,Other,1986-08-15,432.0,388800000.0,1986.6187542778919,8.589726256254236
+ASE+ACE,University of Massachusetts Amherst,United States of America,Robotics,1983-09-01,324.0,324000000.0,1983.6652977412732,8.510545010206613
+Neocognitron,NHK Broadcasting Science Research Laboratories,Japan,Vision,1980-04-01,1140576.0,273738240.0,1980.2491444216291,8.437335470632421
+Cognitron,Biological Cybernetics,Japan,Other,1975-09-01,21600.0,5184000.0,1975.6652977412732,6.714664992862537
+LTE speaker verification system,IBM,United States of America,Speech,1966-11-01,2061.0,105917060.0,1966.8323066392882,8.024965917304296
+Heuristic Reinforcement Learning,Purdue University,United States of America,Robotics,1965-10-01,,1080000.0,1965.7474332648871,6.033423755486949
+Print Recognition Logic,IBM,United States of America,Vision,1963-01-01,,22500000.0,1963.0,7.352182518111363
+Linear Decision Functions,Bell Laboratories,United States of America,Mathematics,1962-06-01,,1559250.0,1962.413415468857,6.192915752723169
+ADALINE,Stanford University,United States of America,Vision,1960-06-30,17.0,6600.0,1960.495550992471,3.8195439355418688
+Perceptron (1960),Cornell Aeronautical Laboratory,United States of America,Vision,1960-03-30,1000.0,720000000.0,1960.2436687200548,8.857332496431269
+Samuel Neural Checkers,IBM,United States of America,Games,1959-07-01,16.0,428400000.0,1959.495550992471,8.631849462159819
+Pandemonium (morse),Massachusetts Institute of Technology (MIT),United States of America,Language,1959-02-01,,600000000.0,1959.084873374401,8.778151250383644
+Perceptron Mark I,"Cornell Aeronautical Laboratory,Cornell University","United States of America,United States of America",Other,1957-01-01,1000.0,694894.9377361819,1957.0,5.8419191478843
+Theseus,Bell Laboratories,United States of America,Robotics,1950-07-02,40.0,40.0,1950.498288843258,1.6020599913279623
